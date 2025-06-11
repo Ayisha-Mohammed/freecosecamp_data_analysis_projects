@@ -1,4 +1,4 @@
-# freecosecamp_data_analysis_projects
+# freecodecamp_data_analysis_projects
 (Using python)
 
 #1 .mean_variance_std Calculator
